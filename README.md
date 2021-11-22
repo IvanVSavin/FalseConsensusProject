@@ -1,7 +1,7 @@
 # FalseConsensusProject
 Data and code for the manuscipt entitled "Biased perceptions of other people’s attitudes to carbon taxation "
 
-The paper includes two studies based on surveys conducted in 2020 (study 1) and 2021 (study 2).
+The paper includes two studies based on surveys conducted in 2019 (study 1) and 2020 (study 2).
 
 The data for Study 1 is in the file called "UABSES_158632_20190822_spelling corrected_noaccent.csv"
 The data for Studty 2 is in the file called "UABSES_195385_20200706.csv"
